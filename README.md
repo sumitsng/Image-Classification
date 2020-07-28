@@ -1,5 +1,8 @@
 # Image-Classification
 Tensorflow Datasets
 <br>
-Self Project to learn processing and classification of datasets
+Projects done through Google Classroom during first year summers to learn processing and classification of datasets
+</br>
+<br>
+Mentor: Prof. Vipul Arora
 </br>
